@@ -18,7 +18,7 @@ size=${#unixTime}
 
 if [[ $size == "10" ]]
 then
-        readable=$(echo `date -r $unixTime "+%F %T"`)
+        readable=$(echo `date -r $unixTime "+%F %T"`)2
 elif [[ $size == "13" ]]
 then
         readable=$(echo `date -r $(($unixTime/1000)) "+%F %T"`)

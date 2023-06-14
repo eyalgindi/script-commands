@@ -16,3 +16,4 @@
 
 osascript -e 'tell application "Google Chrome" to get URL of active tab of first window' | pbcopy
 echo "Copied"
+2

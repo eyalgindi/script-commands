@@ -35,3 +35,4 @@ if [ "$status" = "Paused" ]; then
 fi
 
 echo "🚦 $status ・ 📥 $no_of_slots ・ ⏳ $time_left ・ 💿 $size_left / $size ・ 📊 $speed"
+2
