@@ -359,6 +359,62 @@
         {
           "authors" : [
             {
+              "name" : "Michael Bianco",
+              "url" : "https:\/\/github.com\/iloveitaly"
+            }
+          ],
+          "createdAt" : "2023-08-16T08:02:16-06:00",
+          "currentDirectoryPath" : null,
+          "description" : "A script to take the HTML pastboard type filled by google docs and convert it to nicely formatted markdown",
+          "filename" : "google-docs-to-markdown.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "📋"
+          },
+          "identifier" : "2b7d768fc7ffd6b6990173914031c150",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Conversions",
+          "path" : "conversions\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Convert Google Docs Rich Text HTML to Markdown",
+          "updatedAt" : "2023-08-16T08:02:16-06:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "atzzCokeK",
+              "url" : "https:\/\/github.com\/atzzCokeK"
+            }
+          ],
+          "createdAt" : "2023-10-10T22:38:42+09:00",
+          "currentDirectoryPath" : null,
+          "description" : "Quickly and simply generate a markdown formatted link with your specified URL and title.",
+          "filename" : "inputs-to-markdown-link.sh",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "🔗"
+          },
+          "identifier" : "f7dee34add22537a9662c9fc31f36827",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Conversions",
+          "path" : "conversions\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Simple Markdown Link Generator",
+          "updatedAt" : "2023-10-17T22:58:55+09:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Caleb Stauffer",
               "url" : "https:\/\/github.com\/crstauf"
             }
@@ -831,6 +887,34 @@
           "schemaVersion" : 1,
           "title" : "Convert Epoch to Human-Readable Date",
           "updatedAt" : "2021-03-30T17:29:45+08:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Michael Bianco",
+              "url" : "https:\/\/github.com\/iloveitaly"
+            }
+          ],
+          "createdAt" : "2023-07-03T15:03:20-06:00",
+          "currentDirectoryPath" : null,
+          "description" : "This script will convert raw HTML on your clipboard to rich text. It requires pandoc to be installed on your system.",
+          "filename" : "raw-html-to-rich-text-clipboard.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "📋"
+          },
+          "identifier" : "8acc19746e49d7fc76584c8ea631b545",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Conversions",
+          "path" : "conversions\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Convert Raw HTML to Rich Text on Clipboard",
+          "updatedAt" : "2023-07-03T21:06:13+00:00"
         }
       ],
       "subGroups" : [
@@ -1353,6 +1437,34 @@
         {
           "authors" : [
             {
+              "name" : "Kailash Yellareddy",
+              "url" : "https:\/\/github.com\/kyellareddy"
+            }
+          ],
+          "createdAt" : "2023-07-25T21:56:55+05:30",
+          "currentDirectoryPath" : null,
+          "description" : "Opens current Youtube Shorts video in the normal video player by replacing \"\/shorts\/\" with \"\/v\/\" in the url.",
+          "filename" : "Youtube Shorts in video player.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "📹"
+          },
+          "identifier" : "9bdd39853c92b430aa2dcff8f1dfb7ec",
+          "isTemplate" : false,
+          "language" : "applescript",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Youtube Shorts In Video Player",
+          "path" : "browsing\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Youtube Shorts in video player",
+          "updatedAt" : "2023-07-25T16:29:37+00:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Tahsin Yazkan",
               "url" : "https:\/\/github.com\/thsnyzkn"
             }
@@ -1433,6 +1545,34 @@
           "schemaVersion" : 1,
           "title" : "Copy Current Page URL",
           "updatedAt" : "2021-05-10T00:36:12+02:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "cSharp",
+              "url" : "https:\/\/github.com\/noidwasavailable"
+            }
+          ],
+          "createdAt" : "2023-08-10T17:56:44+09:00",
+          "currentDirectoryPath" : null,
+          "description" : "Convert Twitter link to Nitter",
+          "filename" : "convert-twitter-to-nitter.js",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🐔"
+          },
+          "identifier" : "42048eefcf9facbebf2aeef19f24c2e8",
+          "isTemplate" : false,
+          "language" : "node",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Convert Twitter To Nitter",
+          "path" : "browsing\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Convert Twitter to Nitter",
+          "updatedAt" : "2023-08-10T17:56:44+09:00"
         }
       ]
     },
@@ -3722,6 +3862,34 @@
         {
           "authors" : [
             {
+              "name" : "cSharp",
+              "url" : "https:\/\/github.com\/noidwasavailable"
+            }
+          ],
+          "createdAt" : "2023-09-06T00:23:42+09:00",
+          "currentDirectoryPath" : null,
+          "description" : "nCr: Calculate combinations",
+          "filename" : "calculate-combinations.js",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "𝐂"
+          },
+          "identifier" : "7d453c1dd055288ddc8c81714ed8194b",
+          "isTemplate" : false,
+          "language" : "node",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Calculate Combinations",
+          "path" : "math\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "nCr: Calculate Combinations",
+          "updatedAt" : "2023-09-06T00:23:42+09:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Matt Gleich",
               "url" : "https:\/\/mattglei.ch"
             }
@@ -5173,7 +5341,7 @@
           "refreshTime" : null,
           "schemaVersion" : 1,
           "title" : "Default to Firefox",
-          "updatedAt" : "2023-02-22T16:16:58+11:00"
+          "updatedAt" : "2023-08-31T18:05:16+09:00"
         },
         {
           "authors" : [
@@ -6226,6 +6394,34 @@
         {
           "authors" : [
             {
+              "name" : "Kailash Yellareddy",
+              "url" : "https:\/\/github.com\/kyellareddy"
+            }
+          ],
+          "createdAt" : "2023-07-03T17:20:46-07:00",
+          "currentDirectoryPath" : null,
+          "description" : null,
+          "filename" : "Network Info.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🛜"
+          },
+          "identifier" : "83cefb2a99e7b3a81e177ccef088a8f3",
+          "isTemplate" : false,
+          "language" : "python",
+          "mode" : "fullOutput",
+          "needsConfirmation" : null,
+          "packageName" : "Network Info",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Network Info",
+          "updatedAt" : "2023-07-04T10:01:20+00:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Felipe Turcheti",
               "url" : "https:\/\/felipeturcheti.com"
             }
@@ -6380,6 +6576,34 @@
           "schemaVersion" : 1,
           "title" : "Toggle Natural Scrolling",
           "updatedAt" : "2021-04-29T15:07:57+00:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Kailash Yellareddy",
+              "url" : "https:\/\/github.com\/kyellareddy"
+            }
+          ],
+          "createdAt" : "2023-07-03T14:02:07-07:00",
+          "currentDirectoryPath" : null,
+          "description" : null,
+          "filename" : "Low Power Mode.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🔋"
+          },
+          "identifier" : "abb0ce225a8aa3cc33d242788d9fbc94",
+          "isTemplate" : false,
+          "language" : "applescript",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Low Power Mode",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Low Power Mode",
+          "updatedAt" : "2023-07-03T21:06:13+00:00"
         },
         {
           "authors" : null,
@@ -6616,6 +6840,34 @@
           "schemaVersion" : 1,
           "title" : "Sleep",
           "updatedAt" : "2020-12-08T15:56:35+00:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Ivan Rybalko",
+              "url" : "https:\/\/github.com\/ivribalko"
+            }
+          ],
+          "createdAt" : "2023-09-06T00:16:33-04:00",
+          "currentDirectoryPath" : null,
+          "description" : "Prevent sleep from closing laptop lid (clamshell mode)",
+          "filename" : "toggle-lid-sleep.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🐚"
+          },
+          "identifier" : "417db530f5bb78e762778ce4c5904d26",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "inline",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Toggle Lid Sleep",
+          "updatedAt" : "2023-09-07T11:09:47-04:00"
         },
         {
           "authors" : [
@@ -7229,6 +7481,34 @@
         {
           "authors" : [
             {
+              "name" : "Stephen Kaplan",
+              "url" : "https:\/\/github.com\/SKaplanOfficial"
+            }
+          ],
+          "createdAt" : "2023-11-08T05:45:01-05:00",
+          "currentDirectoryPath" : null,
+          "description" : "Opens the Scripting Dictionary for the given application, defaulting to the active application if none is provided.",
+          "filename" : "view-scripting-dictionary.sh",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "📖"
+          },
+          "identifier" : "2185a0ecf69c65f22c0ce316008c1bfb",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Developer Utils",
+          "path" : "developer-utils\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "View Scripting Dictionary",
+          "updatedAt" : "2023-11-08T05:45:01-05:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Nitin Gupta",
               "url" : "https:\/\/twitter.com\/gniting"
             }
@@ -7773,7 +8053,7 @@
           "refreshTime" : null,
           "schemaVersion" : 1,
           "title" : "Query cheat.sh",
-          "updatedAt" : "2021-07-04T22:26:57+02:00"
+          "updatedAt" : "2023-09-06T19:19:46-05:00"
         },
         {
           "authors" : [
@@ -8207,6 +8487,34 @@
           "schemaVersion" : 1,
           "title" : "Error Info",
           "updatedAt" : "2021-03-01T16:54:23+00:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "decaylala",
+              "url" : "https:\/\/github.com\/decaylala"
+            }
+          ],
+          "createdAt" : "2023-09-05T23:21:57+08:00",
+          "currentDirectoryPath" : null,
+          "description" : "Join multiple lines of text from the clipboard into a single line, separated by a specified delimiter.",
+          "filename" : "join-lines.sh",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "🛠"
+          },
+          "identifier" : "ed8ed8f5841fbb881efe5a16aef73695",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Developer Utilities",
+          "path" : "developer-utils\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Join Clipboard Lines by Delimiter",
+          "updatedAt" : "2023-09-05T15:24:46+00:00"
         },
         {
           "authors" : [
@@ -9728,6 +10036,34 @@
             {
               "authors" : [
                 {
+                  "name" : "Valdir Junior",
+                  "url" : "https:\/\/github.com\/valdirjunior011 "
+                }
+              ],
+              "createdAt" : "2023-07-25T02:12:24+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Show statistics of your GitHub repositories.",
+              "filename" : "github-repository-stars_all_repos_template.rb",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "⭐️"
+              },
+              "identifier" : "b1a1df37b2ee1f7965f5bad16f491ddd",
+              "isTemplate" : true,
+              "language" : "ruby",
+              "mode" : "inline",
+              "needsConfirmation" : null,
+              "packageName" : "GitHub",
+              "path" : "developer-utils\/github\/",
+              "refreshTime" : "1h",
+              "schemaVersion" : 1,
+              "title" : "Repository Statistics",
+              "updatedAt" : "2023-07-25T00:17:33+00:00"
+            },
+            {
+              "authors" : [
+                {
                   "name" : "Phil Salant",
                   "url" : "https:\/\/github.com\/PSalant726"
                 }
@@ -10474,6 +10810,34 @@
           "schemaVersion" : 1,
           "title" : "Generate Passphrase",
           "updatedAt" : "2020-12-09T15:47:57-05:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Leo Fritsch",
+              "url" : "https:\/\/github.com\/leofritsch"
+            }
+          ],
+          "createdAt" : "2023-06-26T20:03:01+02:00",
+          "currentDirectoryPath" : null,
+          "description" : "Let Me Google That For You",
+          "filename" : "let-me-google-that.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🤡"
+          },
+          "identifier" : "8c26812f87ffcd8305d704e94d8146eb",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Communication",
+          "path" : "communication\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Let Me Google That",
+          "updatedAt" : "2023-06-27T09:57:07+00:00"
         },
         {
           "authors" : [
@@ -13785,6 +14149,34 @@
             {
               "authors" : [
                 {
+                  "name" : "Danylo Zalizchuk",
+                  "url" : "https:\/\/raycast.com\/danulqua"
+                }
+              ],
+              "createdAt" : "2023-08-16T16:56:54+03:00",
+              "currentDirectoryPath" : null,
+              "description" : "Start a screen recording with keystrokes using the Keystroke Pro app and save it as a video or an optimized GIF file.",
+              "filename" : "cleanshot-record-screen-with-keystroke-pro.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : ".\/images\/record-screen-keystroke-pro.png"
+              },
+              "identifier" : "2b2c4df77dc49c058edc490dd1e4d066",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "CleanShot X",
+              "path" : "apps\/cleanshot\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Record Screen With Keystroke Pro",
+              "updatedAt" : "2023-08-16T16:56:54+03:00"
+            },
+            {
+              "authors" : [
+                {
                   "name" : "CleanShot X",
                   "url" : "https:\/\/twitter.com\/CleanShot_app"
                 }
@@ -14281,6 +14673,35 @@
               "schemaVersion" : 1,
               "title" : "Translate",
               "updatedAt" : "2022-04-04T02:34:41+08:00"
+            }
+          ]
+        },
+        {
+          "name" : "Bartender",
+          "path" : "bartender",
+          "scriptCommands" : [
+            {
+              "authors" : null,
+              "createdAt" : "2023-06-02T15:26:22+08:00",
+              "currentDirectoryPath" : null,
+              "description" : "Perform a quick search of Menu Bar Items, in Bartender 4",
+              "filename" : "bartender-search.applescript",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/bartender-icon.png"
+              },
+              "identifier" : "be9bfa8f7ef781753490380437a674aa",
+              "isTemplate" : false,
+              "language" : "applescript",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Bartender.app",
+              "path" : "apps\/bartender\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Search Bartender",
+              "updatedAt" : "2023-06-02T15:26:22+08:00"
             }
           ]
         },
@@ -17606,6 +18027,34 @@
               "schemaVersion" : 1,
               "title" : "Connect",
               "updatedAt" : "2022-11-21T00:02:28+07:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Daniils Petrovs",
+                  "url" : "https:\/\/github.com\/danirukun"
+                }
+              ],
+              "createdAt" : "2021-11-03T23:01:39+03:00",
+              "currentDirectoryPath" : null,
+              "description" : "Force WARP reauthentication",
+              "filename" : "warp-reauth.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/warp.png"
+              },
+              "identifier" : "a47be00594b26ffd668ccf35ac6d9a10",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "compact",
+              "needsConfirmation" : null,
+              "packageName" : "WARP",
+              "path" : "apps\/warp\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Reauthenticate",
+              "updatedAt" : "2023-08-10T10:55:06+02:00"
             }
           ]
         },
@@ -18480,6 +18929,69 @@
               "schemaVersion" : 1,
               "title" : "Connect",
               "updatedAt" : "2022-07-22T18:26:50+04:30"
+            }
+          ]
+        },
+        {
+          "name" : "Quip",
+          "path" : "quip",
+          "readme" : "apps\/quip\/README.org",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "zzamboni",
+                  "url" : "https:\/\/raycast.com\/zzamboni"
+                }
+              ],
+              "createdAt" : "2023-07-12T10:50:40+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Configure your Quip API token and other defaults in quip_config.ini",
+              "filename" : "quip-new.template.py",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "\/Applications\/Quip.app\/Contents\/Resources\/AppIcon.icns"
+              },
+              "identifier" : "d8fa7bc18200bc8e62536c5dd1c5a6f9",
+              "isTemplate" : true,
+              "language" : "python",
+              "mode" : "compact",
+              "needsConfirmation" : null,
+              "packageName" : "Quip utilities",
+              "path" : "apps\/quip\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "{{commandtitle}}",
+              "updatedAt" : "2023-07-12T10:50:40+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "diego_zamboni",
+                  "url" : "https:\/\/raycast.com\/diego_zamboni"
+                }
+              ],
+              "createdAt" : "2023-07-12T10:50:40+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Create script commands for creating Quip documents, based on the configuration in quip_config.ini.",
+              "filename" : "set-up-quip-commands.py",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "\/Applications\/Quip.app\/Contents\/Resources\/AppIcon.icns"
+              },
+              "identifier" : "fdc5f3fc9cc957f068cd9ec6a7c031b6",
+              "isTemplate" : false,
+              "language" : "python",
+              "mode" : "fullOutput",
+              "needsConfirmation" : true,
+              "packageName" : "Quip utilities",
+              "path" : "apps\/quip\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Set up Quip commands",
+              "updatedAt" : "2023-07-12T10:50:40+02:00"
             }
           ]
         },
@@ -19998,7 +20510,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Clipboard to Imgur",
-              "updatedAt" : "2022-11-13T01:47:18+08:00"
+              "updatedAt" : "2023-07-12T15:49:52+08:00"
             },
             {
               "authors" : [
@@ -22625,9 +23137,9 @@
   ],
   "languages" : [
     {
-      "displayName" : "Python",
-      "icon" : "icon-python.png",
-      "name" : "python"
+      "displayName" : "Swift",
+      "icon" : "icon-swift.png",
+      "name" : "swift"
     },
     {
       "displayName" : "Node",
@@ -22635,14 +23147,14 @@
       "name" : "node"
     },
     {
-      "displayName" : "Ruby",
-      "icon" : "icon-ruby.png",
-      "name" : "ruby"
-    },
-    {
       "displayName" : "Bash",
       "icon" : "icon-bash.png",
       "name" : "bash"
+    },
+    {
+      "displayName" : "Python",
+      "icon" : "icon-python.png",
+      "name" : "python"
     },
     {
       "displayName" : "AppleScript",
@@ -22650,14 +23162,14 @@
       "name" : "applescript"
     },
     {
-      "displayName" : "Swift",
-      "icon" : "icon-swift.png",
-      "name" : "swift"
+      "displayName" : "Ruby",
+      "icon" : "icon-ruby.png",
+      "name" : "ruby"
     }
   ],
   "metadata" : [
 
   ],
-  "totalScriptCommands" : 787,
-  "updatedAt" : "2023-06-05T07:04:09Z"
+  "totalScriptCommands" : 805,
+  "updatedAt" : "2023-11-08T10:47:49Z"
 }
